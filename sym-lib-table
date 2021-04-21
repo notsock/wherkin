@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name gherkin-rescue)(type Legacy)(uri ${KIPRJMOD}/gherkin-rescue.lib)(options "")(descr ""))
+)
